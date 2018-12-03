@@ -48,6 +48,7 @@ def predict(theta, X):
 
 
 def main():
+		#Test changes for the git!!
 		#np.set_printoptions(suppress=False)
 		#np.set_printoptions(threshold=np.nan)
 		##### Setup path variales
